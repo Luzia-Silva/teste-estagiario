@@ -5,37 +5,37 @@ Para esse teste sera necessário a conclusão de pelo menos um desses pontos, se
 
 **_Teste frontend(client)_**
 
-[ x ] Tela de login com email e senha
+[x] Tela de login com email e senha
 
-[ x ] Tela de bem vindo
+[x] Tela de bem vindo
 
-[ x ] Tela de listagem de fruta
+[x] Tela de listagem de fruta
 
-[ x ] Tela de cadastro de fruta
+[x] Tela de cadastro de fruta
 
-[ x ] Tela de exclusão de fruta
+[x] Tela de exclusão de fruta
 
-[ x ] Tela de edição de fruta
+[x] Tela de edição de fruta
 
-[ x ] Usar HTML/CSS
+[x] Usar HTML/CSS
 
-[ x ] Caso nao for fazer a api, guardar em variáveis locais com javascript
+[x] Caso nao for fazer a api, guardar em variáveis locais com javascript
 
 **_Teste backend(api)_**
 
-[ x ] Interação de login com email e senha, retornando um booleano
+[x] Interação de login com email e senha, retornando um booleano
 
-[ x ] Rota de listagem de fruta
+[x] Rota de listagem de fruta
 
-[ x ] Rota de cadastro de fruta
+[x] Rota de cadastro de fruta
 
-[ x ] Rota de exclusão de fruta
+[x] Rota de exclusão de fruta
 
-[ x ] Rota de edição de fruta
+[x] Rota de edição de fruta
 
-[ x ] Usar NodeJs
+[x] Usar NodeJs
 
-[ x ] Usar algum banco de dados para guardar as informações(Postgres, Mysql, MongoDB, Redis, Sqlite)
+[x] Usar algum banco de dados para guardar as informações(Postgres, Mysql, MongoDB, Redis, Sqlite)
 
 **_Pontos extra_**
 
